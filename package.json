@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "path": "^0.12.7",
+    "pdf-export-images": "^1.0.9",
+    "pdf-parse": "^1.1.1",
+    "pdf2pic": "^2.1.4",
+    "tesseract.js": "^4.0.2",
+    "xlsx": "^0.18.5"
+  }
+}

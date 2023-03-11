@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "ProductA",
+    "PurchaseDate": "12/03/2020",
+    "Paid": true,
+    "Price": " £3,000.00 ",
+    "Quantity": "3",
+    "ExistingCustomer": true
+  },
+  {
+    "Name": "ProductB",
+    "PurchaseDate": "12/04/2020",
+    "Paid": true,
+    "Price": " £4,000.00 ",
+    "Quantity": "2",
+    "ExistingCustomer": true
+  },
+  {
+    "Name": "ProductC",
+    "PurchaseDate": "12/05/2020",
+    "Paid": false,
+    "Price": " £5,000.00 ",
+    "Quantity": "4",
+    "ExistingCustomer": false
+  }
+]
